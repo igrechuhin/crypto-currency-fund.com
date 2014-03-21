@@ -1,0 +1,490 @@
+#u2015
+{
+	border-color: #000000;
+	background-color: #518680;
+	position: fixed;
+}
+
+#u2023
+{
+	-pie-box-shadow: 0px 3px 3px #ADADAD;
+	-moz-box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.32);
+	-webkit-box-shadow: 0px 3px 3px -1px rgba(0, 0, 0, 0.32);
+	box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.32);
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: fixed;
+}
+
+#u698
+{
+	border-style: solid;
+	border-color: #474745;
+	background-color: #575756;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u2273
+{
+	border-style: solid;
+	border-color: #474745;
+	background-color: #575756;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u2273:hover
+{
+	background: #575756 url("../images/left%20triangles.png") no-repeat right center;
+}
+
+#u2274
+{
+	border-style: solid;
+	border-color: #474745;
+	background-color: #575756;
+	position: relative;
+	border-width: 1px 0px;
+}
+
+#u2274:hover
+{
+	background: #575756 url("../images/left%20triangles.png") no-repeat right center;
+}
+
+#u2275
+{
+	border-style: solid;
+	border-color: #474745;
+	background-color: #575756;
+	position: relative;
+	border-width: 1px 0px;
+}
+
+#u2275:hover
+{
+	background: #575756 url("../images/left%20triangles.png") no-repeat right center;
+}
+
+#u2276
+{
+	border-style: solid;
+	border-color: #474745;
+	background-color: #575756;
+	position: relative;
+	border-width: 1px 0px;
+}
+
+#u2276:hover
+{
+	background: #575756 url("../images/left%20triangles.png") no-repeat right center;
+}
+
+#u2273.MuseLinkActive,#u2274.MuseLinkActive,#u2275.MuseLinkActive,#u2276.MuseLinkActive
+{
+	background: #464644 url("../images/left%20triangles.png") no-repeat right center;
+}
+
+#u2381
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2381:hover
+{
+	background-color: #D4D8D6;
+}
+
+#u2382
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2381.MuseLinkActive,#u2382:hover
+{
+	background-color: #D4D8D6;
+}
+
+#u2329
+{
+	position: absolute;
+	border-style: solid;
+	border-color: #474745;
+	background-color: #575756;
+	border-width: 1px 0px;
+}
+
+#u2329:hover
+{
+	background: #575756 url("../images/left%20triangles.png") no-repeat right center;
+}
+
+#u2329:active
+{
+	border-color: #474745;
+	background: #575756 url("../images/left%20triangles.png") no-repeat right center;
+}
+
+#u2329.PamphletThumbSelected
+{
+	border-color: #474745;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	background: #464644 url("../images/left%20triangles.png") no-repeat right center;
+}
+
+#u2182-4,#u2189-4,#u2190-4,#u2191-4,#u2380-4
+{
+	line-height: 20px;
+	font-size: 17px;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	font-family: arimo, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u2044
+{
+	border-style: none;
+	border-color: transparent;
+	position: fixed;
+	background: transparent url("../images/header.png") no-repeat center top;
+}
+
+#u2044:hover
+{
+	background: transparent url("../images/header2.png") no-repeat center top;
+}
+
+#u1966-4
+{
+	font-size: 8px;
+	line-height: 10px;
+	position: relative;
+}
+
+#u2063
+{
+	border-color: #000000;
+	position: fixed;
+	background: transparent url("../images/header.png") no-repeat center top;
+}
+
+#u2063:hover
+{
+	background: transparent url("../images/header2.png") no-repeat center top;
+}
+
+#u2044.MuseLinkActive,#u2063.MuseLinkActive
+{
+	background: transparent url("../images/header3.png") no-repeat center top;
+}
+
+#u2141-4,#u2140-4
+{
+	line-height: 20px;
+	font-size: 17px;
+	color: #3A7070;
+	font-family: arimo, sans-serif;
+	font-weight: 700;
+	position: fixed;
+}
+
+#u2561
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2382.MuseLinkActive,#u2561:hover
+{
+	background-color: #D4D8D6;
+}
+
+#u2562
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2561.MuseLinkActive,#u2562:hover
+{
+	background-color: #D4D8D6;
+}
+
+#u2560
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2562.MuseLinkActive,#u2560:hover
+{
+	background-color: #D4D8D6;
+}
+
+#u2563
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2560.MuseLinkActive,#u2563:hover
+{
+	background-color: #D4D8D6;
+}
+
+#u2661
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2563.MuseLinkActive,#u2661:hover
+{
+	background-color: #D4D8D6;
+}
+
+#u2559-4,#u2556-4,#u2557-4,#u2558-4,#u2662-4
+{
+	line-height: 16px;
+	font-size: 13px;
+	color: #575756;
+	position: relative;
+}
+
+#u2567
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/header.png") no-repeat center top;
+}
+
+#u2567:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/header2.png") no-repeat center top;
+}
+
+#u2567:active
+{
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/header2.png") no-repeat center top;
+}
+
+#u2568-4
+{
+	background-color: transparent;
+	line-height: 20px;
+	font-size: 17px;
+	letter-spacing: 0px;
+	color: #3A7070;
+	font-family: arimo, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u3114,#u3113,#pamphletu2553,#pamphletu2453
+{
+	position: fixed;
+}
+
+#u2331,#u2554,#u2456
+{
+	position: absolute;
+}
+
+#u2332,#u2555,#u2457
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #E5EBE9;
+	position: relative;
+}
+
+#u2459
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2661.MuseLinkActive,#u2459:hover
+{
+	background-color: #D4D8D6;
+}
+
+#u2517
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2459.MuseLinkActive,#u2517:hover
+{
+	background-color: #D4D8D6;
+}
+
+#u2520
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2517.MuseLinkActive,#u2520:hover
+{
+	background-color: #D4D8D6;
+}
+
+#u2526
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2520.MuseLinkActive,#u2526:hover
+{
+	background-color: #D4D8D6;
+}
+
+#u2383-4,#u2384-4,#u2460-4,#u2524-4,#u2525-4,#u2527-4
+{
+	color: #575756;
+	position: relative;
+}
+
+#u2470
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/header.png") no-repeat center top;
+}
+
+#u2470:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/header2.png") no-repeat center top;
+}
+
+#u2470:active
+{
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/header2.png") no-repeat center top;
+}
+
+#u2567.PamphletThumbSelected,#u2470.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	background: transparent url("../images/header3.png") no-repeat center top;
+}
+
+#u2473-4
+{
+	background-color: transparent;
+	line-height: 20px;
+	font-size: 17px;
+	letter-spacing: 0px;
+	color: #3A7070;
+	font-family: arimo, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u2567.PamphletThumbSelected #u2568-4 p,#u2470.PamphletThumbSelected #u2473-4 p
+{
+	color: #3A7070;
+	visibility: inherit;
+}
+
+#u2671,#u2672,#u2673,#u2674,#pamphletu2320,#u2669,#u2670,#u2327,#u2402,#u2777,#u2778,#u2779,#u2780,#u2781,#u2566,#u2569,#u2806,#u2807,#u2808,#u2809,#u2469,#u2546
+{
+	position: relative;
+}
+
+#u2522
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u2526.MuseLinkActive,#u2522:hover
+{
+	background-color: #D4D8D6;
+}
+
+#u2155,#u3115,#u3119,#u3123
+{
+	border-color: #000000;
+	background-color: #3D7973;
+	-moz-border-radius: 14px;
+	-webkit-border-radius: 14px;
+	-khtml-border-radius: 14px;
+	border-radius: 14px;
+	position: fixed;
+}
+
+#u2163-4,#u3116-4,#u3120-4,#u3124-4
+{
+	line-height: 19px;
+	font-size: 16px;
+	color: #7BDEB4;
+	font-family: arimo, sans-serif;
+	font-weight: 700;
+	position: fixed;
+}
+
+#u3047,#u3117,#u3121,#u3125
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 16px;
+	text-align: right;
+	line-height: 19px;
+	font-family: arimo, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+#u2017
+{
+	border-color: #000000;
+	position: fixed;
+	background: transparent url("../images/side.png") repeat-x left top;
+}
+
