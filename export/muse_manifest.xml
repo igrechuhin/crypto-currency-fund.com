@@ -1,80 +1,95 @@
-<manifest alg="2" build="232" opt="true" iceEnabled="true">
+<manifest alg="2" build="5" opt="true" iceEnabled="true">
+  <folder name="assets">
+    <file name="crypto-subscription-agreement-non-us-140404.pdf" crc="493989288" mt="1397727474000"/>
+    <file name="crypto-us-subscription-agreement-and-instructions-140404.pdf" crc="400403281" mt="1397727475000"/>
+    <file name="crypto-currency-fund---om-cima-clean-final-_march-2014_.pdf" crc="3911840449" mt="1397727473000"/>
+    <file name="cogs---crypto-currency-fund---1-april-2014.pdf" crc="296365853" mt="1397727477000"/>
+    <file name="ccf-supplemental-subscription-agreement,-2014-04-10.pdf" crc="254276984" mt="1397727479000"/>
+    <file name="crypto-currency-fund-descriptive-description-2014-04-15,-final.pdf" crc="135010071" mt="1397730141000"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="397963719"/>
+    <file name="site_global.css" crc="3983832653"/>
     <file name="master_master-with-logo.css" crc="175604890" ref="enneking-asset-management:team:advisory-board:private-portfolios"/>
-    <file name="master_basic-master.css" crc="4027329172" ref="service-providers:awards---rankings:enneking-asset-management:events:how-to-invest:benchmarks:fact-sheets---newsletter:what-are-crypto-currencies:performance:team:site-map:advisory-board:contact-us:index:the-fund:private-portfolios:news"/>
-    <file name="master_the-fund-master.css" crc="270852713" ref="service-providers:awards---rankings:events:how-to-invest:benchmarks:fact-sheets---newsletter:what-are-crypto-currencies:performance:site-map:contact-us:index:the-fund:news"/>
-    <file name="service-providers.css" crc="4057837110" ref="service-providers"/>
-    <file name="iefonts_service-providers.css" crc="4111830675" ref="service-providers"/>
-    <file name="awards---rankings.css" crc="4057837110" ref="awards---rankings"/>
-    <file name="iefonts_awards---rankings.css" crc="4111830675" ref="awards---rankings"/>
-    <file name="enneking-asset-management.css" crc="50783992" ref="enneking-asset-management"/>
-    <file name="iefonts_enneking-asset-management.css" crc="4111830675" ref="enneking-asset-management"/>
-    <file name="events.css" crc="4057837110" ref="events"/>
-    <file name="iefonts_events.css" crc="4111830675" ref="events"/>
-    <file name="how-to-invest.css" crc="4057837110" ref="how-to-invest"/>
-    <file name="iefonts_how-to-invest.css" crc="4111830675" ref="how-to-invest"/>
-    <file name="benchmarks.css" crc="4057837110" ref="benchmarks"/>
+    <file name="master_basic-master.css" crc="3998666872" ref="service-providers:awards---rankings:enneking-asset-management:events:how-to-invest:benchmarks:fact-sheets---newsletter:what-are-crypto-currencies:performance:team:site-map:advisory-board:contact-us:index:the-fund:private-portfolios:news:history"/>
+    <file name="master_the-fund-master.css" crc="270852713" ref="service-providers:awards---rankings:events:how-to-invest:benchmarks:fact-sheets---newsletter:what-are-crypto-currencies:performance:site-map:contact-us:index:the-fund:news:history"/>
+    <file name="service-providers.css" crc="4174106638" ref="service-providers"/>
+    <file name="awards---rankings.css" crc="4098103083" ref="awards---rankings"/>
+    <file name="enneking-asset-management.css" crc="188917470" ref="enneking-asset-management"/>
+    <file name="events.css" crc="3991475849" ref="events"/>
+    <file name="how-to-invest.css" crc="363285496" ref="how-to-invest"/>
+    <file name="benchmarks.css" crc="4285608545" ref="benchmarks"/>
+    <file name="fact-sheets---newsletter.css" crc="179022483" ref="fact-sheets---newsletter"/>
+    <file name="what-are-crypto-currencies.css" crc="4195631265" ref="what-are-crypto-currencies"/>
+    <file name="iefonts_what-are-crypto-currencies.css" crc="143045222" ref="what-are-crypto-currencies"/>
+    <file name="performance.css" crc="3966890503" ref="performance"/>
+    <file name="team.css" crc="448944670" ref="team"/>
+    <file name="site-map.css" crc="228408197" ref="site-map"/>
+    <file name="iefonts_site-map.css" crc="117307311" ref="site-map"/>
+    <file name="advisory-board.css" crc="4142721994" ref="advisory-board"/>
+    <file name="contact-us.css" crc="4003391584" ref="contact-us"/>
+    <file name="index.css" crc="361357842" ref="index"/>
+    <file name="iefonts_index.css" crc="343292199" ref="index"/>
+    <file name="the-fund.css" crc="3927906681" ref="the-fund"/>
+    <file name="private-portfolios.css" crc="112116955" ref="private-portfolios"/>
+    <file name="news.css" crc="92881582" ref="news"/>
+    <file name="history.css" crc="3803017924" ref="history"/>
+    <file name="iefonts_history.css" crc="284918854" ref="history"/>
+    <file name="iefonts_private-portfolios.css" crc="284493853" ref="private-portfolios"/>
+    <file name="iefonts_events.css" crc="477402728" ref="events"/>
+    <file name="iefonts_team.css" crc="341738301" ref="team"/>
+    <file name="iefonts_fact-sheets---newsletter.css" crc="156618040" ref="fact-sheets---newsletter"/>
+    <file name="iefonts_performance.css" crc="412396668" ref="performance"/>
+    <file name="iefonts_enneking-asset-management.css" crc="95809004" ref="enneking-asset-management"/>
     <file name="iefonts_benchmarks.css" crc="4111830675" ref="benchmarks"/>
-    <file name="fact-sheets---newsletter.css" crc="4057837110" ref="fact-sheets---newsletter"/>
-    <file name="iefonts_fact-sheets---newsletter.css" crc="4111830675" ref="fact-sheets---newsletter"/>
-    <file name="what-are-crypto-currencies.css" crc="4057837110" ref="what-are-crypto-currencies"/>
-    <file name="iefonts_what-are-crypto-currencies.css" crc="4111830675" ref="what-are-crypto-currencies"/>
-    <file name="performance.css" crc="4057837110" ref="performance"/>
-    <file name="iefonts_performance.css" crc="4111830675" ref="performance"/>
-    <file name="team.css" crc="50783992" ref="team"/>
-    <file name="iefonts_team.css" crc="4111830675" ref="team"/>
-    <file name="site-map.css" crc="4057837110" ref="site-map"/>
-    <file name="iefonts_site-map.css" crc="4111830675" ref="site-map"/>
-    <file name="advisory-board.css" crc="50783992" ref="advisory-board"/>
-    <file name="iefonts_advisory-board.css" crc="4111830675" ref="advisory-board"/>
-    <file name="contact-us.css" crc="4057837110" ref="contact-us"/>
-    <file name="iefonts_contact-us.css" crc="4111830675" ref="contact-us"/>
-    <file name="index.css" crc="3841459002" ref="index"/>
-    <file name="iefonts_index.css" crc="339196245" ref="index"/>
-    <file name="the-fund.css" crc="4057837110" ref="the-fund"/>
-    <file name="iefonts_the-fund.css" crc="4111830675" ref="the-fund"/>
-    <file name="private-portfolios.css" crc="50783992" ref="private-portfolios"/>
-    <file name="iefonts_private-portfolios.css" crc="4111830675" ref="private-portfolios"/>
-    <file name="news.css" crc="4057837110" ref="news"/>
-    <file name="iefonts_news.css" crc="4111830675" ref="news"/>
+    <file name="iefonts_how-to-invest.css" crc="199491585" ref="how-to-invest"/>
+    <file name="iefonts_service-providers.css" crc="4266600984" ref="service-providers"/>
+    <file name="iefonts_awards---rankings.css" crc="420239409" ref="awards---rankings"/>
+    <file name="iefonts_contact-us.css" crc="3981984775" ref="contact-us"/>
+    <file name="iefonts_news.css" crc="4106633224" ref="news"/>
+    <file name="iefonts_advisory-board.css" crc="428967639" ref="advisory-board"/>
+    <file name="iefonts_the-fund.css" crc="113857174" ref="the-fund"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news"/>
-    <file name="museutils.js" crc="3880880085" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news"/>
-    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news"/>
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news:history"/>
+    <file name="museutils.js" crc="3880880085" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news:history"/>
+    <file name="webpro.js" crc="33264525" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news:history"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news:history"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news:history"/>
+    <file name="touchswipe.js" crc="261777990" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news:history"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:news:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:history"/>
     <file name="pie.js" crc="4147615982" ref="index"/>
-    <file name="webpro.js" crc="33264525" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news"/>
-    <file name="musewpslideshow.js" crc="272207905" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news"/>
-    <file name="jquery.museoverlay.js" crc="466079611" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news"/>
-    <file name="touchswipe.js" crc="261777990" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news"/>
   </folder>
   <folder name="images">
     <file name="left triangles.png" crc="4106676850" ref="index"/>
-    <file name="dropdown.png" crc="399084220" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news"/>
-    <file name="ccf_website-logoc.png" crc="3874704132" ref="index:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:performance:benchmarks:how-to-invest:service-providers:news"/>
+    <file name="dropdown.png" crc="399084220" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news:history"/>
+    <file name="ccf_website-logoc.png" crc="3874704132" ref="index:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:performance:benchmarks:how-to-invest:service-providers:news:history"/>
+    <file name="ccf_website-eam logoc.png" crc="53566128" ref="enneking-asset-management:advisory-board:private-portfolios:team"/>
     <file name="header.png" crc="4191308746" ref="index"/>
     <file name="header2.png" crc="3913526079" ref="index"/>
     <file name="header3.png" crc="3913526079" ref="index"/>
-    <file name="down triangles.png" crc="324510360" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:news"/>
+    <file name="down triangles.png" crc="324510360" ref="index:enneking-asset-management:the-fund:what-are-crypto-currencies:news:fact-sheets---newsletter:awards---rankings:site-map:contact-us:events:advisory-board:private-portfolios:team:performance:benchmarks:how-to-invest:service-providers:history"/>
     <file name="side.png" crc="3976395264" ref="index"/>
-    <file name="ccf_website-eam logoc.png" crc="53566128" ref="enneking-asset-management:advisory-board:private-portfolios:team"/>
+    <file name="wfhedgefunds11.gif" crc="4162751072" ref="awards---rankings"/>
+    <file name="award2.jpg" crc="8848668" ref="awards---rankings"/>
+    <file name="eurekahedge.gif" crc="450173336" ref="awards---rankings"/>
+    <file name="tim2.jpg" crc="117143945" ref="team"/>
   </folder>
-  <file name="index.html" crc="3821482368" mt="1395418238635" redirect="true"/>
-  <file name="enneking-asset-management.html" crc="3973571280" mt="1395418238667" redirect="true"/>
-  <file name="the-fund.html" crc="4269082677" mt="1395418238637" redirect="true"/>
-  <file name="what-are-crypto-currencies.html" crc="263239001" mt="1395418238639" redirect="true"/>
-  <file name="fact-sheets---newsletter.html" crc="55607119" mt="1395418238643" redirect="true"/>
-  <file name="awards---rankings.html" crc="4160732434" mt="1395418238646" redirect="true"/>
-  <file name="site-map.html" crc="152032848" mt="1395418238648" redirect="true"/>
-  <file name="contact-us.html" crc="4110895562" mt="1395418238650" redirect="true"/>
-  <file name="events.html" crc="8816754" mt="1395418238653" redirect="true"/>
-  <file name="advisory-board.html" crc="3835606074" mt="1395418238670" redirect="true"/>
-  <file name="private-portfolios.html" crc="3809689844" mt="1395418238672" redirect="true"/>
-  <file name="team.html" crc="498513768" mt="1395418238675" redirect="true"/>
-  <file name="performance.html" crc="399060739" mt="1395418238655" redirect="true"/>
-  <file name="benchmarks.html" crc="178887105" mt="1395418238658" redirect="true"/>
-  <file name="how-to-invest.html" crc="3982697769" mt="1395418238660" redirect="true"/>
-  <file name="service-providers.html" crc="482331517" mt="1395418238662" redirect="true"/>
-  <file name="news.html" crc="4194452245" mt="1395418238642" redirect="true"/>
+  <file name="index.html" crc="4044550467" mt="1397733745832" redirect="true"/>
+  <file name="enneking-asset-management.html" crc="3888165597" mt="1397733745920" redirect="true"/>
+  <file name="the-fund.html" crc="298027341" mt="1397733745835" redirect="true"/>
+  <file name="what-are-crypto-currencies.html" crc="3838224223" mt="1397733745837" redirect="true"/>
+  <file name="fact-sheets---newsletter.html" crc="474133425" mt="1397733745851" redirect="true"/>
+  <file name="awards---rankings.html" crc="3967899562" mt="1397733745855" redirect="true"/>
+  <file name="site-map.html" crc="4169142822" mt="1397733745858" redirect="true"/>
+  <file name="contact-us.html" crc="31720382" mt="1397733745861" redirect="true"/>
+  <file name="events.html" crc="26437954" mt="1397733745870" redirect="true"/>
+  <file name="advisory-board.html" crc="187492506" mt="1397733745926" redirect="true"/>
+  <file name="private-portfolios.html" crc="3836099476" mt="1397733745932" redirect="true"/>
+  <file name="team.html" crc="4114429869" mt="1397733754751" redirect="true"/>
+  <file name="performance.html" crc="166740807" mt="1397733745874" redirect="true"/>
+  <file name="benchmarks.html" crc="118104581" mt="1397733745881" redirect="true"/>
+  <file name="how-to-invest.html" crc="3798691548" mt="1397733745893" redirect="true"/>
+  <file name="service-providers.html" crc="28960467" mt="1397733745899" redirect="true"/>
+  <file name="news.html" crc="372987449" mt="1397733745841" redirect="true"/>
+  <file name="history.html" crc="3927793980" mt="1397733745905" redirect="true"/>
 </manifest>

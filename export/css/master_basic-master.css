@@ -264,7 +264,19 @@
 	background-color: #D4D8D6;
 }
 
-#u2559-4,#u2556-4,#u2557-4,#u2558-4,#u2662-4
+#u3171
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2661.MuseLinkActive,#u3171:hover
+{
+	background-color: #D4D8D6;
+}
+
+#u2559-4,#u2556-4,#u2557-4,#u2558-4,#u2662-4,#u3172-4
 {
 	line-height: 16px;
 	font-size: 13px;
@@ -331,7 +343,7 @@
 	position: relative;
 }
 
-#u2661.MuseLinkActive,#u2459:hover
+#u3171.MuseLinkActive,#u2459:hover
 {
 	background-color: #D4D8D6;
 }
@@ -429,7 +441,7 @@
 	visibility: inherit;
 }
 
-#u2671,#u2672,#u2673,#u2674,#pamphletu2320,#u2669,#u2670,#u2327,#u2402,#u2777,#u2778,#u2779,#u2780,#u2781,#u2566,#u2569,#u2806,#u2807,#u2808,#u2809,#u2469,#u2546
+#u2671,#u2672,#u2673,#u2674,#pamphletu2320,#u2669,#u2670,#u2327,#u2402,#u2777,#u2778,#u2779,#u2780,#u2781,#u3174,#u2566,#u2569,#u2806,#u2807,#u2808,#u2809,#u2469,#u2546
 {
 	position: relative;
 }
