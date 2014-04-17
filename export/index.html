@@ -7,11 +7,11 @@
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?3983832653"/>
-  <link rel="stylesheet" type="text/css" href="css/master_basic-master.css?3998666872"/>
+  <link rel="stylesheet" type="text/css" href="css/master_basic-master.css?4181259283"/>
   <link rel="stylesheet" type="text/css" href="css/master_the-fund-master.css?270852713"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?361357842" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?3939347102" id="pagesheet"/>
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?343292199"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?4121143985"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -90,7 +90,11 @@ var __adobewebfontsappname__ = "muse";
     data.addColumn('string', 'Topping');
     data.addColumn('number', 'Slices');
     data.addRows([
-      ['Bitcoin', 100]
+      ['Bitcoin', 100],
+      ['Litecoin', 0],
+      ['Auroracoin', 0],
+      ['Peercoin', 0],
+      ['Dogecoin', 0]
     ]);
 
     // Set chart options
@@ -99,17 +103,18 @@ var __adobewebfontsappname__ = "muse";
      'width':306,
      //'height':208,
      'pieHole': 0.3,
+     'sliceVisibilityThreshold': 0,
      'slices': {
         0: {'color': '#508580'},
         1: {'color': '#7EDFB5'}
      },
      'legend': {
-        'position': 'bottom',
+        'position': 'top',
         'maxLines': 5,
         'textStyle': {
           color: 'black',
           fontName: 'arimo, sans-serif',
-          fontSize: 11
+          fontSize: 10
         }
      },
      'backgroundColor': 'transparent'
@@ -132,12 +137,12 @@ var __adobewebfontsappname__ = "muse";
         1: {'color': '#7EDFB5'}
       },
       'legend': {
-        'position': 'bottom',
+        'position': 'top',
         'maxLines': 5,
         'textStyle': {
           color: 'black',
           fontName: 'arimo, sans-serif',
-          fontSize: 11
+          fontSize: 10
         }
       },
 //      'vAxis': {
@@ -154,8 +159,8 @@ var __adobewebfontsappname__ = "muse";
  <body>
 
   <div class="clearfix" id="page"><!-- group -->
-   <div class="browser_width" id="u2015"><!-- simple frame --></div>
    <div class="shadow" id="u2023"><!-- simple frame --></div>
+   <div class="browser_width" id="u2015"><!-- simple frame --></div>
    <div class="clearfix grpelem" id="pu698"><!-- group -->
     <div class="clearfix grpelem" id="u698"><!-- group -->
      <div class="clearfix grpelem" id="u2671"><!-- group -->
@@ -272,12 +277,6 @@ var __adobewebfontsappname__ = "muse";
            <a class="nonblock nontext clearfix grpelem" id="u2556-4" href="performance.html"><!-- content --><p>Performance</p></a>
           </div>
          </div>
-         <div class="clearfix colelem" id="u2779"><!-- group -->
-          <div class="pointer_cursor clearfix grpelem" id="u2560"><!-- group -->
-           <a class="block" href="benchmarks.html"></a>
-           <a class="nonblock nontext clearfix grpelem" id="u2557-4" href="benchmarks.html"><!-- content --><p>Benchmarks</p></a>
-          </div>
-         </div>
          <div class="clearfix colelem" id="u2780"><!-- group -->
           <div class="pointer_cursor clearfix grpelem" id="u2563"><!-- group -->
            <a class="block" href="how-to-invest.html"></a>
@@ -308,7 +307,7 @@ var __adobewebfontsappname__ = "muse";
     </div>
     <div class="rounded-corners" id="u3119"><!-- simple frame --></div>
     <div class="clearfix" id="u3120-4"><!-- content -->
-     <p>PPC/USD</p>
+     <p>Peercoin/USD</p>
     </div>
    </div>
    <div class="clearfix grpelem" id="pu3087"><!-- group -->
@@ -336,6 +335,14 @@ var __adobewebfontsappname__ = "muse";
         <p>SECTOR BREAKDOWN</p>
        </div>
       </div>
+      <div class="colelem" id="u3107"><!-- custom html -->
+       <div id="chart_pie"></div>
+</div>
+      <div class="clearfix colelem" id="u3109"><!-- group -->
+       <div class="clearfix grpelem" id="u3110-4"><!-- content -->
+        <p>FUND MONTHLY GROWTH</p>
+       </div>
+      </div>
       <div class="colelem" id="u3111"><!-- custom html -->
        <div id="chart_line"> </div>
 </div>
@@ -349,19 +356,8 @@ var __adobewebfontsappname__ = "muse";
       <p>392%</p>
      </div>
     </div>
-    <div class="grpelem" id="u3107"><!-- custom html -->
-     <div id="chart_pie"></div>
-</div>
-    <div class="clearfix grpelem" id="u3109"><!-- group -->
-     <div class="clearfix grpelem" id="u3110-4"><!-- content -->
-      <p>FUND MONTHLY GROWTH</p>
-     </div>
-    </div>
    </div>
-   <div class="clearfix grpelem" id="pu3121"><!-- group -->
-    <div id="u3121"><!-- custom html -->
-     <div id="currency_holder3">loading</div>
-</div>
+   <div class="clearfix grpelem" id="ppamphletu2453"><!-- group -->
     <div class="PamphletWidget clearfix" id="pamphletu2453"><!-- none box -->
      <div class="popup_anchor" id="u2456popup">
       <div class="ContainerGroup clearfix" id="u2456"><!-- stack box -->
@@ -401,6 +397,9 @@ var __adobewebfontsappname__ = "muse";
       </div>
      </div>
     </div>
+    <div id="u3121"><!-- custom html -->
+     <div id="currency_holder3">loading</div>
+</div>
     <div id="u2522"><!-- simple frame --></div>
     <div class="rounded-corners" id="u3123"><!-- simple frame --></div>
     <div class="clearfix" id="u3124-4"><!-- content -->
